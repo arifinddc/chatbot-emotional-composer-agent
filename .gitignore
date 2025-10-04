@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Abaikan berkas rahasia Streamlit
+.streamlit/secrets.toml
+
+# Abaikan folder cache Streamlit yang besar
+.streamlit/cache/
