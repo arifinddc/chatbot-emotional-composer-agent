@@ -48,7 +48,7 @@ The application is built on a modern AI stack focused on reliability and structu
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPO_URL]
+    git clone https://github.com/arifinddc/chatbot-emotional-composer-agent
     cd emotional-composer-bot
     ```
 2.  **Install Dependencies:**
