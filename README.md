@@ -44,12 +44,14 @@ The application is built on a modern AI stack focused on reliability and structu
 
 ***
 
-### How to Run Locally
+## 🚀 Installation and Local Setup
+
+Follow these steps to run the project on your local machine:
 
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/arifinddc/chatbot-emotional-composer-agent
-    cd emotional-composer-bot
+    cd chatbot-emotional-composer-bot
     ```
 2.  **Install Dependencies:**
     ```bash
