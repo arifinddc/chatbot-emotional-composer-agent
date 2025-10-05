@@ -211,3 +211,10 @@ __marimo__/
 
 # Abaikan folder cache Streamlit yang besar
 .streamlit/cache/
+
+# File Log
+*.log
+
+# 🌟 FILE DATA LOKAL YANG HARUS DIABAIKAN 🌟
+# Database SQLite (Ini file yang dibuat oleh database_tools.py)
+suggestion_history.db
